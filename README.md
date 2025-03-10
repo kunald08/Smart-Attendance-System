@@ -1,1 +1,1 @@
-# Smart-Attendance-System
+# Smart Attendance system using Face Recognition in OpenCV
